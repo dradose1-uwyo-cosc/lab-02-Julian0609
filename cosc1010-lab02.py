@@ -3,7 +3,7 @@
 # Submission Date
 # Lab 02 
 # Lab Section: 18
-# none, none, help given to: 
+# none, none, help given to: Me, Julian Huerta
 # your
 # comments
 # here
